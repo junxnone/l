@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-06-24T16:08:48Z`
+Updated @ | `2023-07-01T17:21:23Z`
 Edit @ | [here](https://github.com/junxnone/l/issues/1)
 
 ---
@@ -13,12 +13,12 @@ This is a [锻炼] Wiki.  <kbd>[Use this Template](https://github.com/junxnone/t
 
 
 - [Mindmap - Markmap](https://junxnone.github.io/l/markmap.html?md=https://junxnone.github.io/l/_sidebar.md)
-- [3D Knowledge Graph](https://junxnone.github.io/kg?json=l/kg.json)
+- [3D Knowledge Graph](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/l/kg.json)
 
 ---
 
 [Index](_sidebar.md ':include')
 
-[kg](https://junxnone.github.io/kg?json=l/kg.json ':include :type=iframe width=100% height=800px')
+[kg](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/l/kg.json ':include :type=iframe width=100% height=800px')
 
 
